@@ -1,22 +1,55 @@
 import fs from 'fs';
+import path from 'path';
 import functionsError from './error/functionsError.js';
 import { wordCount } from './index.js';
 import { makeFileExit } from './helpers.js';
-const filePath = process.argv;
-const link = filePath[2];
-const address = filePath[3];
+import { Command } from 'commander';
+import chalk from 'chalk';
 
-fs.readFile(link, 'utf8', (error, fileText) => {
-    try {   
-        if (error) throw error
-    const result = wordCount(fileText);
-    createSaveFile(result, address);
+const program = new Command();
 
-    } catch (error) {
-        functionsError(error);
-    }
 
-});
+program
+    .version('0.0.1')
+    .option('-t, --texto <string>', 'caminh do texto a ser processado')
+    .option('-d, --destino <string', 'caminho da pasta onde salvar o arquivo de resultado')
+    .action((options)=>{
+        const { texto, destino } = options;
+        if(!texto || !destino) {
+            console.error(chalk.red('erro: favor inserir caminho de origem e destino'))
+            program.help();
+            return;
+        }
+
+        const textoPath = path.resolve(texto);
+        const destinoPath = path.resolve(destino);
+
+        try {
+            processFile(textoPath, destinoPath);
+            console.log(chalk.green('Texto processado'))
+        } catch (error) {
+            console.log('Erro no processamento', erro)
+        }
+    })
+
+program.parse();
+
+
+function processFile (texto, destine){
+    fs.readFile(texto, 'utf8', (error, fileText) => {
+        try {   
+            if (error) throw error
+        const result = wordCount(fileText);
+        createSaveFile(result, destine);
+    
+        } catch (error) {
+            functionsError(error);
+        }
+    
+    });
+
+}
+
 
 async function createSaveFile(wordList, address){
     const newFile = `${address}/resourceLimits.txt`

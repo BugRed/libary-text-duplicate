@@ -1,5 +1,5 @@
 function occurrenceFilter(paragraph){
-    return Object.keys(paragraph).filter(key => paragraph[key] > 1 || paragraph[key] !== undefined ||paragraph[key] != undefined || paragraph[key] !== null || paragraph[key] !== ''|| paragraph[key] !== ' ' || paragraph[key] !== 0)
+    return Object.keys(paragraph).filter(key => paragraph[key] > 1 || paragraph[key])
 }
 
 function makeFileExit(wordList){
