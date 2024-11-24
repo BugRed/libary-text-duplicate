@@ -1,0 +1,13 @@
+{
+  "name": "biblioteca-nodejs",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Biblioteca - Palavras duplicadas </h1>",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

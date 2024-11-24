@@ -1,22 +1,17 @@
-const fs = require('fs');
+export function wordCount(text) {
 
-const filePath = process.argv;
-const link = filePath[2];
-
-fs.readFile(link, 'utf8', (err, fileText) => {
-    breakParagraphCount(fileText)
-});
-
-
-const breakParagraphCount = (text) => {
-    const paragraph = text.toLowerCase().split('\n');
-    const count = paragraph.flatMap((paragraph)=> {
-        if(!paragraph) return [];
+    const paragraph = extractParagraph(text);
+    const count = paragraph.flatMap((paragraph) => {
+        if (!paragraph) return [];
         return countDuplicateWord(paragraph);
     })
-    console.log(count);
-    
+    return count;
 }
+
+const extractParagraph = (text) => {
+    return text.toLowerCase().split('\n');
+}
+
 
 const cleanCharacter = (word) => {
     return word.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()\r]/g, '');

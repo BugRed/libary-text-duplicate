@@ -1,0 +1,126 @@
+palavras duplicadas no parágrafo 1: httpswwwaluracombrartigosmetodokanban 
+palavras duplicadas no parágrafo 2:  
+palavras duplicadas no parágrafo 3: introdução 
+palavras duplicadas no parágrafo 4:  
+palavras duplicadas no parágrafo 5: mesmo, que, você, nunca, tenha, trabalhado, estudado, kanban, trabalha, com, agilidade, muito, provável, ouvido, alguma, dessas, frases 
+palavras duplicadas no parágrafo 6:  
+palavras duplicadas no parágrafo 7: "comece, pelo, que, você, tem" 
+palavras duplicadas no parágrafo 8: "pare, começar, comece, terminar" 
+palavras duplicadas no parágrafo 9: "kanban, método, não, framework" 
+palavras duplicadas no parágrafo 10: "kanban, scrum, tudo, mesma, coisa" 
+palavras duplicadas no parágrafo 11: "kanban, uma, metodologia, ágil" 
+palavras duplicadas no parágrafo 12: "você, precisa, limitar, trabalho, andamento" 
+palavras duplicadas no parágrafo 13: "para, que, isso, funcione, precisamos, uma, política, explícita" 
+palavras duplicadas no parágrafo 14: "para, ser, ágil, preciso, trabalhar, com, sistema, puxado" 
+palavras duplicadas no parágrafo 15:  
+palavras duplicadas no parágrafo 16: independentemente, seu, nível, conhecimento, agilidade, final, deste, artigo, você, conseguirá, entender, cada, uma, dessas, frases, saber, identificar, que, estão, corretas, incorretas, aquelas, fazem, parte, universo, kanban 
+palavras duplicadas no parágrafo 17:  
+palavras duplicadas no parágrafo 18: que, kanban?, para, serve, esse, método? 
+palavras duplicadas no parágrafo 19:  
+palavras duplicadas no parágrafo 20: primeiramente, precisamos, definir, que, este, artigo, fala, especificamente, método, kanban, isso, importante, porque, tem, diversos, significados, diferentes 
+palavras duplicadas no parágrafo 21:  
+palavras duplicadas no parágrafo 22: palavra, japonesa, kanban, significa, “sinalização”, “cartão”, poderia, ser, usada, para, fazer, referência, sistema, sinalização, que, utiliza, cartões 
+palavras duplicadas no parágrafo 23:  
+palavras duplicadas no parágrafo 24: quadro, kanban 
+palavras duplicadas no parágrafo 25: diversas, metodologias, frameworks, utilizados, agilidade, como, scrum, por, exemplo, utilizamse, quadro, que, podemos, chamar, “quadro, kanban”, qual, temos, alguns, cartões, deslocam, pelo, seja, “kanbans”, isso, fundamental, ter, mente, kanban, para, não, confundir 
+palavras duplicadas no parágrafo 26: lean, manufacturing, ou, sistema, produção, toyota 
+palavras duplicadas no parágrafo 27:  
+palavras duplicadas no parágrafo 28: 1950, sistema, produção, toyota, idealizado, pelo, engenheiro, taiichi, ohno, nos, anos, palavra, kanban, foi, utilizada, para, referirse, sinalização, criada, permitir, uso, puxado, detalharemos, isso, pouco, mais, adiante 
+palavras duplicadas no parágrafo 29:  
+palavras duplicadas no parágrafo 30: método, kanban 
+palavras duplicadas no parágrafo 31:  
+palavras duplicadas no parágrafo 32: 2010, david, anderson, criou, modelo, kanban, para, desenvolvimento, software, que, combina, elementos, pensamento, lean, com, ágil, processo, esse, novo, foi, batizado, método, tempos, depois, evoluiria, uso, outros, tipos, produtos, além 
+palavras duplicadas no parágrafo 33:  
+palavras duplicadas no parágrafo 34: kanban, método, metodologia, framework? 
+palavras duplicadas no parágrafo 35:  
+palavras duplicadas no parágrafo 36: 2010, david, anderson, sugeriu, convencionar, nome, método, kanban, sempre, com, palavra, escrita, “k”, maiúsculo, isso, tentativa, diferenciar, dos, outros, significados, minúsculo, descreveu, esse, trabalho, livro, “kanban, mudança, evolucionária, sucesso, para, seu, negócio, tecnologia”, publicado, nesse, mesmo, ano, foi, criadores, university 
+palavras duplicadas no parágrafo 37:  
+palavras duplicadas no parágrafo 38: nos, materiais, kanban, university, como, guia, oficial, método, que, pode, ser, baixado, própria, página, web, idiomas, incluindo, inglês, português, espanhol, sempre, encontramos, forma, clara, distinção, entre, conceito, framework, isso, para, praticantes, tenham, clareza, função, implementação, deste, pouco, diferente, scrum, por, exemplo 
+palavras duplicadas no parágrafo 39:  
+palavras duplicadas no parágrafo 40: uma, metodologia, por, outro, lado, muito, mais, prescritiva, completa, que, método, framework, dessa, forma, kanban, claramente, não, pode, ser, considerado 
+palavras duplicadas no parágrafo 41:  
+palavras duplicadas no parágrafo 42: resumo, que, método, kanban? 
+palavras duplicadas no parágrafo 43:  
+palavras duplicadas no parágrafo 44: método, kanban, conjunto, princípios, práticas, que, tem, objetivo, proporcionar, uma, evolução, forma, sua, equipe, ou, empresa, entrega, valor, nos, serviços, prestados, eliminamos, desperdícios, melhoramos, contínua, através, sistema, puxado 
+palavras duplicadas no parágrafo 45:  
+palavras duplicadas no parágrafo 46: embora, frase, acima, pareça, apenas, uma, peça, marketing, série, conceitos, técnicos, incluídos, nessa, explicação, quais, veremos, detalhes, neste, artigo 
+palavras duplicadas no parágrafo 47: qual, principal, característica, kanban? 
+palavras duplicadas no parágrafo 48:  
+palavras duplicadas no parágrafo 49: kanban, baseia, princípios, características, específicas, para, melhorar, eficiência, produtividade, uma, organização, vamos, conhecer, principais, como, elas, contribuem, melhoria, dos, processos 
+palavras duplicadas no parágrafo 50:  
+palavras duplicadas no parágrafo 51: produção, nivelada, sistema, kanban, visa, equilibrar, demanda, trabalho, cada, etapa, processo, evitando, gargalos, assegurando, que, quantidade, seja, distribuída, maneira, uniforme, assim, possível, garantir, fluxo, leve, contínuo, sem, sobrecargas 
+palavras duplicadas no parágrafo 52:  
+palavras duplicadas no parágrafo 53: redução, tempo, preparação, kanban, busca, minimizar, necessário, para, configurar, preparar, uma, tarefa, processo, reduzir, tempos, troca, ferramentas, configuração, máquinas, outros, processos, possível, aumentar, eficiência, capacidade, resposta, sistema, permitindo, que, mais, trabalho, seja, concluído, menos 
+palavras duplicadas no parágrafo 54:  
+palavras duplicadas no parágrafo 55: layout, máquinas, projetar, disposição, física, ferramentas, como, equipamentos, trabalho, kanban, tem, objetivo, otimizar, fluxo, reduzir, desperdício, reorganizando, forma, lógica, eficiente, possível, tempo, deslocamento, transporte, materiais, facilitando, execução, das, tarefas, evitando, atrasos 
+palavras duplicadas no parágrafo 56:  
+palavras duplicadas no parágrafo 57: padronização, dos, trabalhos, estabelecer, procedimentos, padronizados, claros, para, execução, cada, tarefa, possível, eliminar, variações, inconsistências, garantindo, assim, qualidade, consistência, trabalho, realizado, além, disso, facilita, aprendizagem, treinamento, novos, membros, equipe, tornando, transição, integração, mais, suaves 
+palavras duplicadas no parágrafo 58:  
+palavras duplicadas no parágrafo 59: aperfeiçoamento, contínuo, das, atividades, por, meio, análise, dados, identificação, oportunidades, otimização, kanban, incentiva, busca, constante, melhorias, nos, processos, promover, uma, cultura, melhoria, contínua, estimula, equipe, identificar, resolver, problemas, eliminando, desperdícios, reduzindo, tempo, espera, aprimorando, eficiência, sistema 
+palavras duplicadas no parágrafo 60:  
+palavras duplicadas no parágrafo 61: essas, características, trabalham, conjunto, para, otimizar, processos, melhorar, eficiência, aumentar, produtividade, tornando, kanban, uma, metodologia, poderosa, organizações, que, buscam, aprimorar, seus, fluxos, trabalho, alcançar, resultados, consistentes 
+palavras duplicadas no parágrafo 62: quais, são, dois, tipos, kanban? 
+palavras duplicadas no parágrafo 63:  
+palavras duplicadas no parágrafo 64: existem, dois, tipos, principais, kanban, produção, movimentação 
+palavras duplicadas no parágrafo 65:  
+palavras duplicadas no parágrafo 66: kanban, produção, utilizado, ambientes, manufatura, fabricação, cartões, representam, itens, diferentes, etapas, processo, produtivo, medida, que, item, concluído, uma, etapa, cartão, correspondente, movido, para, próxima, sinalizando, seguinte, pode, começar, esse, sistema, controle, ajuda, equilibrar, fluxo, trabalho, evitando, acúmulo, estoque, específicas, melhorando, eficiência, geral 
+palavras duplicadas no parágrafo 67:  
+palavras duplicadas no parágrafo 68: kanban, movimentação, também, conhecido, como, transporte, utilizado, para, controlar, fluxo, materiais, componentes, produtos, entre, diferentes, locais, departamentos, ele, particularmente, útil, empresas, com, múltiplos, armazéns, linhas, produção, pontos, distribuição, nesse, caso, cartões, são, usados, ​​para, rastrear, movimento, físico, dos, itens, garantir, que, haja, material, suficiente, disponível, qualquer, ponto, processo, esse, sistema, visa, evitar, gargalos, áreas, específicas, além, otimizar, reduzir, atrasos 
+palavras duplicadas no parágrafo 69:  
+palavras duplicadas no parágrafo 70: utilização, tanto, kanban, produção, quanto, movimentação, facilita, sincronização, gerenciamento, estoque, permitindo, operações, mais, eficientes, melhor, controle, dos, fluxos, trabalho, resposta, ágil, demandas, mercado 
+palavras duplicadas no parágrafo 71: onde, recomendado, usar, kanban? 
+palavras duplicadas no parágrafo 72:  
+palavras duplicadas no parágrafo 73: kanban, uma, metodologia, versátil, que, pode, ser, aplicada, diversos, contextos, setores, sua, abordagem, visual, com, foco, fluxo, trabalho, tornam, ferramenta, eficaz, para, melhorar, gestão, eficiência, diversas, áreas, como 
+palavras duplicadas no parágrafo 74:  
+palavras duplicadas no parágrafo 75: gestão, projetos 
+palavras duplicadas no parágrafo 76: gestão, ti 
+palavras duplicadas no parágrafo 77: desenvolvimento, software 
+palavras duplicadas no parágrafo 78: gerenciamento, fluxo, produção 
+palavras duplicadas no parágrafo 79: finanças 
+palavras duplicadas no parágrafo 80: logística, cadeia, suprimentos 
+palavras duplicadas no parágrafo 81: design 
+palavras duplicadas no parágrafo 82: marketing, atendimento, cliente 
+palavras duplicadas no parágrafo 83: gestão, das, atividades, pessoais 
+palavras duplicadas no parágrafo 84: gestão, fluxo, trabalho, escritórios 
+palavras duplicadas no parágrafo 85:  
+palavras duplicadas no parágrafo 86: através, uso, kanban, organizações, podem, ganhar, visibilidade, transparência, controle, sobre, suas, atividades, resultando, uma, maior, produtividade, melhor, gerenciamento, prazos, forma, geral, recomendado, utilizar, esse, sistema, qualquer, contexto, que, envolva, gestão, tarefas, fluxo, trabalho, melhoria, eficiência, operacional, por, ser, visual, flexível 
+palavras duplicadas no parágrafo 87: quais, vantagens, kanban? 
+palavras duplicadas no parágrafo 88:  
+palavras duplicadas no parágrafo 89: vimos, diversas, vantagens, sistema, kanban, nos, tópicos, anteriores, essa, abordagem, oferece, benefícios, significativos, para, controle, processos, aprimoramento, eficiência, gestão, projetos, aqui, estão, mais, algumas, das, utilizar 
+palavras duplicadas no parágrafo 90:  
+palavras duplicadas no parágrafo 91: visualização, fluxo, trabalho, utilizar, quadro, kanban, membros, equipe, podem, visualizar, todas, tarefas, seus, estágios, andamento, essa, representação, visual, permite, que, todos, tenham, uma, visão, geral, projeto, tornando, mais, fácil, entender, progresso, identificar, gargalos 
+palavras duplicadas no parágrafo 92:  
+palavras duplicadas no parágrafo 93: dinamismo, entre, pessoas, kanban, promove, maior, incentivar, colaboração, comunicação, transparente, trabalho, equipe, através, visualização, clara, fluxo, todos, membros, têm, acesso, informações, atualizadas, que, facilita, identificação, tarefas, prioridades, dependências 
+palavras duplicadas no parágrafo 94:  
+palavras duplicadas no parágrafo 95: ambiente, colaborativo, kanban, promove, colaboração, incentivar, clareza, comunicação, aberta, trabalho, equipe, permitindo, que, todas, etapas, fluxo, sejam, visualizadas, compartilhadas, entre, membros, time, isso, cria, uma, base, sólida, para, pois, pessoas, têm, acesso, informações, atualizadas, sobre, tarefas, prioridades, dependências 
+palavras duplicadas no parágrafo 96:  
+palavras duplicadas no parágrafo 97: autonomia, kanban, estimula, responsabilidade, individual, uma, vez, que, cada, pessoa, encorajada, contribuir, ativamente, para, sucesso, projeto, tomando, decisões, agindo, acordo, com, necessidades, fluxo, trabalho 
+palavras duplicadas no parágrafo 98:  
+palavras duplicadas no parágrafo 99: visibilidade, dos, impedimentos, kanban, proporciona, visualização, processo, promovendo, identificação, forma, rápida, quaisquer, problemas, obstáculos, que, possam, surgir, visualizar, tangível, equipe, pode, tomar, medidas, imediatas, para, resolvêlos 
+palavras duplicadas no parágrafo 100:  
+palavras duplicadas no parágrafo 101: otimiza, tempo, através, visualização, das, tarefas, limitação, trabalho, progresso, kanban, ajuda, evitar, sobrecarga, dispersão, esforços, com, isso, equipe, pode, concentrar, seus, concluir, atividades, agilidade 
+palavras duplicadas no parágrafo 102:  
+palavras duplicadas no parágrafo 103: planejamento, diário, eficiente, com, visualização, quadro, kanban, equipe, pode, facilmente, identificar, quais, tarefas, estão, prontas, para, serem, iniciadas, dia, progresso, foram, concluídas, isso, facilita, organização, priorização, das, atividades, diárias, garantindo, que, recursos, sejam, alocados, maneira, adequada, metas, alcançadas 
+palavras duplicadas no parágrafo 104:  
+palavras duplicadas no parágrafo 105: forma, geral, utilização, kanban, oferece, vantagens, significativas, por, proporcionar, maior, visibilidade, controle, fluxo, trabalho, adotar, equipes, podem, aprimorar, produtividade, qualidade, dos, processos 
+palavras duplicadas no parágrafo 106: por, onde, começar 
+palavras duplicadas no parágrafo 107:  
+palavras duplicadas no parágrafo 108: mais, interessante, estudar, método, kanban, que, dos, seus, princípios, “comece, pelo, você, faz, agora”, tem”, seguindo, esse, princípio, importante, entender, bem, metodologia, framework, está, utilizando 
+palavras duplicadas no parágrafo 109:  
+palavras duplicadas no parágrafo 110: dessa, forma, vamos, começar, nosso, estudo, justamente, conhecendo, conceitos, agilidade, que, estão, relacionados, método, kanban, também, são, utilizados, outras, metodologias, frameworks 
+palavras duplicadas no parágrafo 111:  
+palavras duplicadas no parágrafo 112: pensamento, lean, thinking, filosofia, gestão, inspirada, práticas, resultados, sistema, toyota, seu, foco, entregar, mais, valor, pessoas, que, adquirem, produto, serviço, eliminando, desperdícios, corrigindo, problemas, maneira, sistemática 
+palavras duplicadas no parágrafo 113:  
+palavras duplicadas no parágrafo 114: 2001, pensamento, ágil, agile, mindset, podemos, considerar, como, conjunto, valores, princípios, trazidos, pelo, manifesto, assinado 
+palavras duplicadas no parágrafo 115:  
+palavras duplicadas no parágrafo 116: sistema, puxado, em, oposição, “sistema, empurrado”, uma, das, contribuições, engenheiro, japonês, taiichi, ohno, para, toyota, consequentemente, pensamento, lean, trabalho, com, empurrado 
+palavras duplicadas no parágrafo 117:  
+palavras duplicadas no parágrafo 118: primeiro, tipo, sistema, determinado, serviço, uma, determinada, etapa, trabalho, será, executada, quando, seu, valor, resultado, for, necessário, para, linha, produção, entrega, final, produto 
+palavras duplicadas no parágrafo 119:  
+palavras duplicadas no parágrafo 120: tipo, trabalho, com, sistema, puxado, deu, origem, conceito, just, time, “somente, hora, certa”, que, mais, tarde, popularizou, indústria, nos, serviços 
+palavras duplicadas no parágrafo 121: entrega, valor 
+palavras duplicadas no parágrafo 122:  
+palavras duplicadas no parágrafo 123: mais, que, produto, serviço, pessoas, querem, receber, valor, esse, aquilo, faz, com, elas, paguem, pelo, resultado, desejado, final, processo, quando, alguém, aluga, carro, pede, por, aplicativo, exemplo, essa, pessoa, não, quer, ter, si, mas, sim, realizar, deslocamento, neste, caso 
+palavras duplicadas no parágrafo 124: desperdícios 
+palavras duplicadas no parágrafo 125:  
+palavras duplicadas no parágrafo 126: partir, momento, que, começamos, visualizar, valor, devemos, entregar, podemos, considerar, como, desperdício, qualquer, parte, processo, serviço, executamos, não, agrega, uma, desse, final, mas, nem, todo, dispensável 
